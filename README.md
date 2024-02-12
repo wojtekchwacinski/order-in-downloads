@@ -7,7 +7,11 @@ Jest to prosty skrypt napisany w Pythonie, który organizuje pliki w określone 
 ## Instrukcje użycia
 
 1. Uruchom skrypt `main.py`.
+## Przykład uruchomienia
 
+```bash
+python main.py
+```
 
 ## Zależności
 
@@ -23,7 +27,4 @@ Skrypt wymaga środowiska Python 3.x oraz biblioteki shutil.
 - `pobrane_exe/` - Katalog zawierający pliki wykonywalne.
 - `inne/` - Katalog zawierający pliki, które nie pasują do żadnej z powyższych kategorii.
 
-## Przykłady
 
-```bash
-python main.py
